@@ -1,6 +1,6 @@
 # PowerBI
 
-El fin de este repositorio es subir pequeños proyectos realizados en PowerBI con el fin de dar una primera muestra del uso de la herramienta. 
+El fin de este repositorio es subir pequeños proyectos realizados en PowerBI con el objetivo de dar una muestra del uso de la herramienta. 
 
 Es importante aclarar que las versiones publicadas no son trabajos terminados ya que mayormente les falta el desarrollo estetico.
 
